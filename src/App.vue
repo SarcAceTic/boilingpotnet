@@ -6,7 +6,9 @@ import HeaderNavVue from './components/HeaderNav.vue';
 <template>
   <v-app>
     <HeaderNavVue />
-    <v-main><RouterView /></v-main>
+    <v-main>
+      <RouterView />
+    </v-main>
   </v-app>
 </template>
 
