@@ -22,10 +22,10 @@
               <p>Check out the healthiest and most popular recipes here in boilingpot.NET!</p>
             </v-col>
             <v-col class="text-center" cols="6">
-              <h3 class="mb-16">
+              <h2 class="mb-16">
                 <v-icon color="green">mdi-circle-medium</v-icon>
                 Over 1 MILLION Recipes!
-              </h3>
+              </h2>
               <v-btn color="green">
                 See recipes
                 <v-icon>mdi-arrow-right</v-icon>
